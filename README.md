@@ -5,7 +5,7 @@ http://sorumi.xyz/posts/unity-toon-shader/
 
 <img src="Docs/ToonShader.png"/>
 
-##### Feature
+### Feature
 - Ramp shading
 - Stylized specular
 - Colored highlight and shadow
