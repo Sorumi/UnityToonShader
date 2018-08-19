@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ToonCatMat
+  m_Shader: {fileID: 4800000, guid: 3e5af2706d3f8431b9f4a5b863cb2725, type: 3}
+  m_ShaderKeywords: TCP2_NONE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 08c21915d31a7bb4f9d200a43171b54f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: 948e1b7327c293a4081ba3c18eaab19f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SketchTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _DstBlendOutline: 0
+    - _EnableConstSizeOutline: 0
+    - _EnableTexturedOutline: 0
+    - _EnableZSmooth: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Offset1: 0
+    - _Offset2: 0
+    - _Outline: 1
+    - _Parallax: 0.02
+    - _RampSmooth: 0.3
+    - _RampSmoothOtherLights: 0.5
+    - _RampThreshold: 0.5
+    - _RampThresholdOtherLights: 0.5
+    - _RimMax: 1
+    - _RimMin: 0
+    - _RimSmooth: 0.2
+    - _RimThreshold: 0.475
+    - _Shadow_HSV_H: 0
+    - _Shadow_HSV_S: 0
+    - _Shadow_HSV_V: 0
+    - _Shininess: 0.2
+    - _SketchSpeed: 6
+    - _Slider: 2.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecSmooth: 0.6
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SrcBlendOutline: 0
+    - _Steps: 4.23
+    - _TexLod: 6.26
+    - _ToonSteps: 4
+    - _UVSec: 0
+    - _ZSmooth: 1.9
+    - _ZWrite: 1
+    - __dummy__: 0
+    - __outline_gui_dummy__: 0
+    m_Colors:
+    - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 0.57254905}
+    - _RampThresholdRGB: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 1}
+    - _RimColor: {r: 0.46226418, g: 0.15917587, b: 0.15917587, a: 1}
+    - _SColor: {r: 0.8207547, g: 0.49942148, b: 0.49942148, a: 1}
+    - _SpecColor: {r: 0.8679245, g: 0.8228907, b: 0.8228907, a: 1}
+    - _Specular: {r: 0.5, g: 0.5, b: 0.5, a: 1}
